@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/-adelysalberto-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adelysalberto/)
 [![](https://img.shields.io/github/followers/adelysalberto?label=Follow&style=social)](https://github.com/adelysalberto)
 [![](https://img.shields.io/badge/Telegram-%40adelysalberto-blue)](https://t.me/adelysalberto)
-[![](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg)
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/adelysalberto/) 
 
 ```js
 export default () => ({
