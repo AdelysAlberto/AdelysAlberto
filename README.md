@@ -29,7 +29,6 @@ export default () => ({
       python: [{type: "django", accuracy: "40%"}],
       misc: ["bash", "systemd", "selinux"]
     },
-    machineLearning: ["tensorflow", "keras", "pytorch"],
     databases: ["mysql", "postgres", "mongodb"]
   },
 });
