@@ -1,14 +1,13 @@
 ## Hello <𝚌𝚘𝚍𝚎𝚛𝚜/>! 🤓
 
 # Adelys Alberto Belen 🇻🇪 👨‍💻 🇦🇷
-
-[![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue)](https://www.linkedin.com/in/ayushkumar25/)
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/adelysalberto/) 
 
 [![](https://img.shields.io/twitter/follow/adelysalberto?label=Follow)](https://twitter.com/adelysalberto)
 [![](https://img.shields.io/badge/-adelysalberto-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adelysalberto/)
 [![](https://img.shields.io/github/followers/adelysalberto?label=Follow&style=social)](https://github.com/adelysalberto)
 [![](https://img.shields.io/badge/Telegram-%40adelysalberto-blue)](https://t.me/adelysalberto)
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/adelysalberto/) 
+
 
 ```js
 export default () => ({
