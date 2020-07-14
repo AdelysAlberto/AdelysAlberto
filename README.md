@@ -2,10 +2,11 @@
 
 # Adelys Alberto Belen 🇻🇪 👨‍💻 🇦🇷
 
+[![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue)](https://www.linkedin.com/in/ayushkumar25/)
 
-![](https://img.shields.io/twitter/follow/adelysalberto?label=Follow)]
-![](https://img.shields.io/badge/-adelysalberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adelysalberto/)
-![](https://img.shields.io/github/followers/adelysalberto?label=Follow&style=social)
+[![](https://img.shields.io/twitter/follow/adelysalberto?label=Follow)](https://twitter.com/adelysalberto)
+[![](https://img.shields.io/badge/-adelysalberto-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adelysalberto/)
+[![](https://img.shields.io/github/followers/adelysalberto?label=Follow&style=social)](https://github.com/adelysalberto)
 
 
 ```js
