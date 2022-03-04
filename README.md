@@ -12,7 +12,7 @@
 export default () => ({
   pronouns: "He" | "Him",
   MyMessage: "RWwgQ29ub2NpbWllbnRvIGVzIGxpYnJlISwgcXVlIGxvIHNlcGFuIGFwcm92ZWNoYXIsIHBvY29zIQ==",
-  myUrl: "http://adalbeca.com/",
+  myUrl: "https://adalbeca.com/",
   askMeAbout: [
     "webdev", "tech", "music",
     "basseball", "family"
@@ -20,8 +20,9 @@ export default () => ({
   myVscodeConfig: "https://howivscode.com/AdelysAlberto",
   technologies: {
     frontEnd: {
-      js: ["react", "angular", "react-native"],
-      css: ["bootstrap", "sass"]
+      js: ["react", "react-native"],
+      css: ["bootstrap", "sass"],
+      extra: ["solidity", "web3", "etherjs"],
     },
     backEnd: {
       js: [{type: "node", accuracy: "60%"}],
