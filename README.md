@@ -17,6 +17,7 @@ export default () => ({
     "webdev", "tech", "music",
     "basseball", "family"
   ],
+  myVscodeConfig: "https://howivscode.com/AdelysAlberto",
   technologies: {
     frontEnd: {
       js: ["react", "angular", "react-native"],
