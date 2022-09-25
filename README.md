@@ -12,7 +12,7 @@
 export default () => ({
   pronouns: "He" | "Him",
   MyMessage: "RWwgQ29ub2NpbWllbnRvIGVzIGxpYnJlISwgcXVlIGxvIHNlcGFuIGFwcm92ZWNoYXIsIHBvY29zIQ==",
-  myUrl: "https://adalbeca.com/",
+  myUrl: "https://linktr.ee/adelysalberto",
   askMeAbout: [
     "webdev", "tech", "music",
     "basseball", "family"
